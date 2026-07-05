@@ -1,0 +1,8 @@
+/.vscode
+/company_dim.csv
+/job_postings_fact.csv
+/settings.json
+/skills_dim.csv
+/skills_job_dim.csv
+/test.sql
+/_.DS_Store
